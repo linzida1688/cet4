@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>大学英语四级 (CET-4) 听力真题</title>
+    <link>https://github.com/linzida1688/cet4</link>
+    <language>zh-cn</language>
+    <description>桌面小组件专享 CET-4 听力磨耳朵</description>
+
+    <!-- 听力曲目 1 -->
+    <item>
+      <title>2026年6月四级听力 第1套</title>
+
+      <!-- 将下方 url 替换为第二步复制的 Release MP3 复制链接 -->
+      <enclosure url="https://github.com/linzida1688/cet4/releases/download/v1.0/cet4_2026_06_01.mp3" type="audio/mpeg" />
+
+      <guid>cet4_2023_12_01</guid>
+      <pubDate>Sun, 16 Aug 2026 12:00:00 +0800</pubDate>
+    </item>
+
+    <!-- 听力曲目 2 -->
+    <item>
+      <title>2026年6月四级听力 第2套</title>
+
+      <enclosure url="https://github.com/linzida1688/cet4/releases/download/v1.0/cet4_2026_06_02.mp3" type="audio/mpeg" />
+
+      <guid>cet4_2026_6_02</guid>
+      <pubDate>Sun, 16 Aug 2026 13:00:00 +0800</pubDate>
+    </item>
+
+  </channel>
+</rss>
