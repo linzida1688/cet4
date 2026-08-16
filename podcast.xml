@@ -6,13 +6,21 @@
     <language>zh-cn</language>
     <description>桌面小组件专享 CET-4 听力磨耳朵</description>
 
+    <!-- 特殊音频：二外英语翻译（非真题） -->
+    <item>
+      <title>英语翻译音频（二外）</title>
+      <enclosure url="https://github.com/linzida1688/cet4/releases/download/v3.0/english-traslation.mp3" type="audio/mpeg" />
+      <guid>english_traslation.mp3</guid>
+      <pubDate>Sat, 15 Aug 2026 02:46:31 GMT</pubDate>
+    </item>
+
+    <!-- 2026年6月 -->
     <item>
       <title>2026年6月四级听力 第1套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_2026_06_01.mp3" type="audio/mpeg" />
       <guid>cet4_2026_06_01</guid>
       <pubDate>Sun, 16 Aug 2026 12:00:00 +0800</pubDate>
     </item>
-
     <item>
       <title>2026年6月四级听力 第2套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_2026_06_02.mp3" type="audio/mpeg" />
@@ -20,13 +28,13 @@
       <pubDate>Sun, 16 Aug 2026 11:30:00 +0800</pubDate>
     </item>
 
+    <!-- 2025年12月 -->
     <item>
       <title>2025年12月四级听力 第1套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_5_.B.CET4._.P5.2025.12.mp3" type="audio/mpeg" />
       <guid>cet4_5_.B.CET4._.P5.2025.12.mp3</guid>
       <pubDate>Sun, 16 Aug 2026 11:00:00 +0800</pubDate>
     </item>
-
     <item>
       <title>2025年12月四级听力 第2套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_4_.B.CET4._.P4.2025.12.mp3" type="audio/mpeg" />
@@ -34,13 +42,13 @@
       <pubDate>Sun, 16 Aug 2026 10:30:00 +0800</pubDate>
     </item>
 
+    <!-- 2025年6月 -->
     <item>
       <title>2025年6月四级听力 第1套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_7_.B.CET4._.P7.2025.6.mp3" type="audio/mpeg" />
       <guid>cet4_7_.B.CET4._.P7.2025.6.mp3</guid>
       <pubDate>Sun, 16 Aug 2026 10:00:00 +0800</pubDate>
     </item>
-
     <item>
       <title>2025年6月四级听力 第2套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_6_.B.CET4._.P6.2025.6.mp3" type="audio/mpeg" />
@@ -48,13 +56,13 @@
       <pubDate>Sun, 16 Aug 2026 09:30:00 +0800</pubDate>
     </item>
 
+    <!-- 2024年12月 -->
     <item>
       <title>2024年12月四级听力 第1套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_9_.B.CET4._.P9.2024.12.mp3" type="audio/mpeg" />
       <guid>cet4_9_.B.CET4._.P9.2024.12.mp3</guid>
       <pubDate>Sun, 16 Aug 2026 09:00:00 +0800</pubDate>
     </item>
-
     <item>
       <title>2024年12月四级听力 第2套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_8_.B.CET4._.P8.2024.12.mp3" type="audio/mpeg" />
@@ -62,13 +70,13 @@
       <pubDate>Sun, 16 Aug 2026 08:30:00 +0800</pubDate>
     </item>
 
+    <!-- 2024年6月 -->
     <item>
       <title>2024年6月四级听力 第1套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_11_.B.CET4._.P11.2024.6.mp3" type="audio/mpeg" />
       <guid>cet4_11_.B.CET4._.P11.2024.6.mp3</guid>
       <pubDate>Sun, 16 Aug 2026 08:00:00 +0800</pubDate>
     </item>
-
     <item>
       <title>2024年6月四级听力 第2套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_10_.B.CET4._.P10.2024.6.mp3" type="audio/mpeg" />
@@ -76,13 +84,13 @@
       <pubDate>Sun, 16 Aug 2026 07:30:00 +0800</pubDate>
     </item>
 
+    <!-- 2023年12月 -->
     <item>
       <title>2023年12月四级听力 第1套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_13_.B.CET4._.P13.2023.12.mp3" type="audio/mpeg" />
       <guid>cet4_13_.B.CET4._.P13.2023.12.mp3</guid>
       <pubDate>Sun, 16 Aug 2026 07:00:00 +0800</pubDate>
     </item>
-
     <item>
       <title>2023年12月四级听力 第2套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_12_.B.CET4._.P12.2023.12.mp3" type="audio/mpeg" />
@@ -90,13 +98,13 @@
       <pubDate>Sun, 16 Aug 2026 06:30:00 +0800</pubDate>
     </item>
 
+    <!-- 2023年6月 -->
     <item>
       <title>2023年6月四级听力 第1套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_15_.B.CET4._.P15.2023.6.mp3" type="audio/mpeg" />
       <guid>cet4_15_.B.CET4._.P15.2023.6.mp3</guid>
       <pubDate>Sun, 16 Aug 2026 06:00:00 +0800</pubDate>
     </item>
-
     <item>
       <title>2023年6月四级听力 第2套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_14_.B.CET4._.P14.2023.6.mp3" type="audio/mpeg" />
@@ -104,6 +112,7 @@
       <pubDate>Sun, 16 Aug 2026 05:30:00 +0800</pubDate>
     </item>
 
+    <!-- 2023年3月 -->
     <item>
       <title>2023年3月四级听力 第1套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_16_.B.CET4._.P16.2023.3.mp3" type="audio/mpeg" />
@@ -111,13 +120,13 @@
       <pubDate>Sun, 16 Aug 2026 05:00:00 +0800</pubDate>
     </item>
 
+    <!-- 2022年12月 -->
     <item>
       <title>2022年12月四级听力 第1套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_18_.B.CET4._.P18.2022.12.mp3" type="audio/mpeg" />
       <guid>cet4_18_.B.CET4._.P18.2022.12.mp3</guid>
       <pubDate>Sun, 16 Aug 2026 04:30:00 +0800</pubDate>
     </item>
-
     <item>
       <title>2022年12月四级听力 第2套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_17_.B.CET4._.P17.2022.12.mp3" type="audio/mpeg" />
@@ -125,6 +134,7 @@
       <pubDate>Sun, 16 Aug 2026 04:00:00 +0800</pubDate>
     </item>
 
+    <!-- 2022年9月 -->
     <item>
       <title>2022年9月四级听力 第1套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_19_.B.CET4._.P19.2022.9.mp3" type="audio/mpeg" />
@@ -132,6 +142,7 @@
       <pubDate>Sun, 16 Aug 2026 03:30:00 +0800</pubDate>
     </item>
 
+    <!-- 2022年6月 -->
     <item>
       <title>2022年6月四级听力 第1套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_20_.B.CET4._.P20.2022.6.mp3" type="audio/mpeg" />
@@ -139,13 +150,13 @@
       <pubDate>Sun, 16 Aug 2026 03:00:00 +0800</pubDate>
     </item>
 
+    <!-- 2021年12月 -->
     <item>
       <title>2021年12月四级听力 第1套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_22_.B.CET4._.P22.2021.12.mp3" type="audio/mpeg" />
       <guid>cet4_22_.B.CET4._.P22.2021.12.mp3</guid>
       <pubDate>Sun, 16 Aug 2026 02:30:00 +0800</pubDate>
     </item>
-
     <item>
       <title>2021年12月四级听力 第2套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_21_.B.CET4._.P21.2021.12.mp3" type="audio/mpeg" />
@@ -153,13 +164,13 @@
       <pubDate>Sun, 16 Aug 2026 02:00:00 +0800</pubDate>
     </item>
 
+    <!-- 2021年6月 -->
     <item>
       <title>2021年6月四级听力 第1套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_24_.B.CET4._.P24.2021.6.mp3" type="audio/mpeg" />
       <guid>cet4_24_.B.CET4._.P24.2021.6.mp3</guid>
       <pubDate>Sun, 16 Aug 2026 01:30:00 +0800</pubDate>
     </item>
-
     <item>
       <title>2021年6月四级听力 第2套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_23_.B.CET4._.P23.2021.6.mp3" type="audio/mpeg" />
@@ -167,13 +178,13 @@
       <pubDate>Sun, 16 Aug 2026 01:00:00 +0800</pubDate>
     </item>
 
+    <!-- 2020年12月 -->
     <item>
       <title>2020年12月四级听力 第1套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_26_.B.CET4._.P26.2020.12.mp3" type="audio/mpeg" />
       <guid>cet4_26_.B.CET4._.P26.2020.12.mp3</guid>
       <pubDate>Sun, 16 Aug 2026 00:30:00 +0800</pubDate>
     </item>
-
     <item>
       <title>2020年12月四级听力 第2套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_25_.B.CET4._.P25.2020.12.mp3" type="audio/mpeg" />
@@ -181,13 +192,13 @@
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0800</pubDate>
     </item>
 
+    <!-- 2020年9月 -->
     <item>
       <title>2020年9月四级听力 第1套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_28_.B.CET4._.P28.2020.9.mp3" type="audio/mpeg" />
       <guid>cet4_28_.B.CET4._.P28.2020.9.mp3</guid>
       <pubDate>Sat, 15 Aug 2026 23:30:00 +0800</pubDate>
     </item>
-
     <item>
       <title>2020年9月四级听力 第2套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_27_.B.CET4._.P27.2020.9.mp3" type="audio/mpeg" />
@@ -195,13 +206,13 @@
       <pubDate>Sat, 15 Aug 2026 23:00:00 +0800</pubDate>
     </item>
 
+    <!-- 2019年12月 -->
     <item>
       <title>2019年12月四级听力 第1套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_30_.B.CET4._.P30.2019.12.mp3" type="audio/mpeg" />
       <guid>cet4_30_.B.CET4._.P30.2019.12.mp3</guid>
       <pubDate>Sat, 15 Aug 2026 22:30:00 +0800</pubDate>
     </item>
-
     <item>
       <title>2019年12月四级听力 第2套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_29_.B.CET4._.P29.2019.12.mp3" type="audio/mpeg" />
@@ -209,13 +220,13 @@
       <pubDate>Sat, 15 Aug 2026 22:00:00 +0800</pubDate>
     </item>
 
+    <!-- 2019年6月 -->
     <item>
       <title>2019年6月四级听力 第1套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_32_.B.CET4._.P32.2019.6.mp3" type="audio/mpeg" />
       <guid>cet4_32_.B.CET4._.P32.2019.6.mp3</guid>
       <pubDate>Sat, 15 Aug 2026 21:30:00 +0800</pubDate>
     </item>
-
     <item>
       <title>2019年6月四级听力 第2套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_31_.B.CET4._.P31.2019.6.mp3" type="audio/mpeg" />
@@ -223,13 +234,13 @@
       <pubDate>Sat, 15 Aug 2026 21:00:00 +0800</pubDate>
     </item>
 
+    <!-- 2018年12月 -->
     <item>
       <title>2018年12月四级听力 第1套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_34_.B.CET4._.P34.2018.12.mp3" type="audio/mpeg" />
       <guid>cet4_34_.B.CET4._.P34.2018.12.mp3</guid>
       <pubDate>Sat, 15 Aug 2026 20:30:00 +0800</pubDate>
     </item>
-
     <item>
       <title>2018年12月四级听力 第2套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_33_.B.CET4._.P33.2018.12.mp3" type="audio/mpeg" />
@@ -237,18 +248,116 @@
       <pubDate>Sat, 15 Aug 2026 20:00:00 +0800</pubDate>
     </item>
 
+    <!-- 2018年6月 -->
     <item>
       <title>2018年6月四级听力 第1套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_36_.B.CET4._.P36.2018.6.mp3" type="audio/mpeg" />
       <guid>cet4_36_.B.CET4._.P36.2018.6.mp3</guid>
       <pubDate>Sat, 15 Aug 2026 19:30:00 +0800</pubDate>
     </item>
-
     <item>
       <title>2018年6月四级听力 第2套</title>
       <enclosure url="https://github.com/linzida1688/cet4/releases/download/v2.0/cet4_35_.B.CET4._.P35.2018.6.mp3" type="audio/mpeg" />
       <guid>cet4_35_.B.CET4._.P35.2018.6.mp3</guid>
       <pubDate>Sat, 15 Aug 2026 19:00:00 +0800</pubDate>
+    </item>
+
+    <!-- ====== 新增 2017–2015 年真题（按年份倒序，套数正序） ====== -->
+
+    <!-- 2017年12月 -->
+    <item>
+      <title>2017年12月四级听力 第1套</title>
+      <enclosure url="https://github.com/linzida1688/cet4/releases/download/v3.0/P38.B.CET4._.P38.2017.12._40433552062.mp3" type="audio/mpeg" />
+      <guid>P38.B.CET4._.P38.2017.12._40433552062.mp3</guid>
+      <pubDate>Sat, 15 Aug 2026 00:46:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>2017年12月四级听力 第2套</title>
+      <enclosure url="https://github.com/linzida1688/cet4/releases/download/v3.0/P37.B.CET4._.P37.2017.12._40433551270.mp3" type="audio/mpeg" />
+      <guid>P37.B.CET4._.P37.2017.12._40433551270.mp3</guid>
+      <pubDate>Sat, 15 Aug 2026 01:46:31 GMT</pubDate>
+    </item>
+
+    <!-- 2017年6月 -->
+    <item>
+      <title>2017年6月四级听力 第1套</title>
+      <enclosure url="https://github.com/linzida1688/cet4/releases/download/v3.0/P40.B.CET4._.P40.2017.6._40835811619.mp3" type="audio/mpeg" />
+      <guid>P40.B.CET4._.P40.2017.6._40835811619.mp3</guid>
+      <pubDate>Fri, 14 Aug 2026 22:46:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>2017年6月四级听力 第2套</title>
+      <enclosure url="https://github.com/linzida1688/cet4/releases/download/v3.0/P39.B.CET4._.P39.2017.6._40433552766.mp3" type="audio/mpeg" />
+      <guid>P39.B.CET4._.P39.2017.6._40433552766.mp3</guid>
+      <pubDate>Fri, 14 Aug 2026 23:46:31 GMT</pubDate>
+    </item>
+
+    <!-- 2016年12月 -->
+    <item>
+      <title>2016年12月四级听力 第1套</title>
+      <enclosure url="https://github.com/linzida1688/cet4/releases/download/v3.0/P43.B.CET4._.P43.2016.12._40957512558.mp3" type="audio/mpeg" />
+      <guid>P43.B.CET4._.P43.2016.12._40957512558.mp3</guid>
+      <pubDate>Fri, 14 Aug 2026 19:46:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>2016年12月四级听力 第2套</title>
+      <enclosure url="https://github.com/linzida1688/cet4/releases/download/v3.0/P42.B.CET4._.P42.2016.12._40433616307.mp3" type="audio/mpeg" />
+      <guid>P42.B.CET4._.P42.2016.12._40433616307.mp3</guid>
+      <pubDate>Fri, 14 Aug 2026 20:46:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>2016年12月四级听力 第3套</title>
+      <enclosure url="https://github.com/linzida1688/cet4/releases/download/v3.0/P41.B.CET4._.P41.2016.12._40433615822.mp3" type="audio/mpeg" />
+      <guid>P41.B.CET4._.P41.2016.12._40433615822.mp3</guid>
+      <pubDate>Fri, 14 Aug 2026 21:46:31 GMT</pubDate>
+    </item>
+
+    <!-- 2016年6月 -->
+    <item>
+      <title>2016年6月四级听力 第1套</title>
+      <enclosure url="https://github.com/linzida1688/cet4/releases/download/v3.0/P45.B.CET4._.P45.2016.6._40433618387.mp3" type="audio/mpeg" />
+      <guid>P45.B.CET4._.P45.2016.6._40433618387.mp3</guid>
+      <pubDate>Fri, 14 Aug 2026 17:46:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>2016年6月四级听力 第2套</title>
+      <enclosure url="https://github.com/linzida1688/cet4/releases/download/v3.0/P44.B.CET4._.P44.2016.6._40433617600.mp3" type="audio/mpeg" />
+      <guid>P44.B.CET4._.P44.2016.6._40433617600.mp3</guid>
+      <pubDate>Fri, 14 Aug 2026 18:46:31 GMT</pubDate>
+    </item>
+
+    <!-- 2015年12月 -->
+    <item>
+      <title>2015年12月四级听力 第1套</title>
+      <enclosure url="https://github.com/linzida1688/cet4/releases/download/v3.0/P47.B.CET4._.P47.2015.12._40433681434.mp3" type="audio/mpeg" />
+      <guid>P47.B.CET4._.P47.2015.12._40433681434.mp3</guid>
+      <pubDate>Fri, 14 Aug 2026 15:46:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>2015年12月四级听力 第2套</title>
+      <enclosure url="https://github.com/linzida1688/cet4/releases/download/v3.0/P46.B.CET4._.P46.2015.12._40433680585.mp3" type="audio/mpeg" />
+      <guid>P46.B.CET4._.P46.2015.12._40433680585.mp3</guid>
+      <pubDate>Fri, 14 Aug 2026 16:46:31 GMT</pubDate>
+    </item>
+
+    <!-- 2015年6月 -->
+    <item>
+      <title>2015年6月四级听力 第1套</title>
+      <enclosure url="https://github.com/linzida1688/cet4/releases/download/v3.0/P50.B.CET4._.P50.2015.6._40835809548.mp3" type="audio/mpeg" />
+      <guid>P50.B.CET4._.P50.2015.6._40835809548.mp3</guid>
+      <pubDate>Fri, 14 Aug 2026 12:46:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>2015年6月四级听力 第2套</title>
+      <enclosure url="https://github.com/linzida1688/cet4/releases/download/v3.0/P49.B.CET4._.P49.2015.6._40433682999.mp3" type="audio/mpeg" />
+      <guid>P49.B.CET4._.P49.2015.6._40433682999.mp3</guid>
+      <pubDate>Fri, 14 Aug 2026 13:46:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>2015年6月四级听力 第3套</title>
+      <enclosure url="https://github.com/linzida1688/cet4/releases/download/v3.0/P48.B.CET4._.P48.2015.6._40835810303.mp3" type="audio/mpeg" />
+      <guid>P48.B.CET4._.P48.2015.6._40835810303.mp3</guid>
+      <pubDate>Fri, 14 Aug 2026 14:46:31 GMT</pubDate>
     </item>
 
   </channel>
